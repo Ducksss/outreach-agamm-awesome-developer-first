@@ -156,6 +156,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
 * [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. [![Strapi](https://img.shields.io/github/stars/strapi/strapi?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/strapi/strapi) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
+* [Payload Components](https://www.payload-components.xyz) - MIT source registry and CLI for 67 typed Payload CMS blocks; automates Payload v3 + Next.js Pages, renderer, types, and admin import-map wiring.
+
 ## Code Quality
 *Check your code quality.*
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
